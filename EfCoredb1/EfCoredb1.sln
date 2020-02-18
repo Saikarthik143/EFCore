@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoredb1", "EfCoredb1.csproj", "{A7696C30-EB5A-4635-A1B7-D5FEC65E4526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{494B77BB-1373-4E06-9DFF-C6606F0DF4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7696C30-EB5A-4635-A1B7-D5FEC65E4526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7696C30-EB5A-4635-A1B7-D5FEC65E4526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7696C30-EB5A-4635-A1B7-D5FEC65E4526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7696C30-EB5A-4635-A1B7-D5FEC65E4526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494B77BB-1373-4E06-9DFF-C6606F0DF4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494B77BB-1373-4E06-9DFF-C6606F0DF4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494B77BB-1373-4E06-9DFF-C6606F0DF4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494B77BB-1373-4E06-9DFF-C6606F0DF4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0A6DFA5-0706-445E-9D6C-742BB87C5371}
+	EndGlobalSection
+EndGlobal

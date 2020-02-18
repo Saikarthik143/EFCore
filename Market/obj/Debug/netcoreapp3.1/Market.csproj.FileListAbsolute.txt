@@ -1,0 +1,10 @@
+E:\EFcore\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+E:\EFcore\Market\bin\Debug\netcoreapp3.1\Market.dll
+E:\EFcore\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+E:\EFcore\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+E:\EFcore\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+E:\EFcore\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+E:\EFcore\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+E:\EFcore\Market\bin\Debug\netcoreapp3.1\Market.pdb
+E:\EFcore\Market\obj\Debug\netcoreapp3.1\Market.dll
+E:\EFcore\Market\obj\Debug\netcoreapp3.1\Market.pdb

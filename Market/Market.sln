@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market", "Market.csproj", "{F45E09D0-9AFC-4460-B468-439857D18592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSol", "..\MarketSol\MarketSol.csproj", "{D690E77D-FAB9-4555-BED6-72A33CCFDD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45E09D0-9AFC-4460-B468-439857D18592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45E09D0-9AFC-4460-B468-439857D18592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45E09D0-9AFC-4460-B468-439857D18592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45E09D0-9AFC-4460-B468-439857D18592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D690E77D-FAB9-4555-BED6-72A33CCFDD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D690E77D-FAB9-4555-BED6-72A33CCFDD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D690E77D-FAB9-4555-BED6-72A33CCFDD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D690E77D-FAB9-4555-BED6-72A33CCFDD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93689976-F464-4BE6-9264-123DB8B07A3F}
+	EndGlobalSection
+EndGlobal

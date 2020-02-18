@@ -1,0 +1,10 @@
+E:\EFcore\EFClassLib\bin\Debug\netcoreapp3.1\EFClassLib.deps.json
+E:\EFcore\EFClassLib\bin\Debug\netcoreapp3.1\EFClassLib.dll
+E:\EFcore\EFClassLib\obj\Debug\netcoreapp3.1\EFClassLib.csprojAssemblyReference.cache
+E:\EFcore\EFClassLib\obj\Debug\netcoreapp3.1\EFClassLib.AssemblyInfoInputs.cache
+E:\EFcore\EFClassLib\obj\Debug\netcoreapp3.1\EFClassLib.AssemblyInfo.cs
+E:\EFcore\EFClassLib\bin\Debug\netcoreapp3.1\EFClassLib.runtimeconfig.json
+E:\EFcore\EFClassLib\bin\Debug\netcoreapp3.1\EFClassLib.runtimeconfig.dev.json
+E:\EFcore\EFClassLib\bin\Debug\netcoreapp3.1\EFClassLib.pdb
+E:\EFcore\EFClassLib\obj\Debug\netcoreapp3.1\EFClassLib.dll
+E:\EFcore\EFClassLib\obj\Debug\netcoreapp3.1\EFClassLib.pdb
